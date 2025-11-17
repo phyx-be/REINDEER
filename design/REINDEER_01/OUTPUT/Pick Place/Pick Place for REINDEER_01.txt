@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Users\Wim\SynologyDrive\Drive\Electronics\REINDEER_01\.\OUTPUT\Pick Place\Pick Place for REINDEER_01.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/11/25
+Time:       22:29
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                                       Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description          
+BUZ2       "14x14x7mm Piezo Buzzer Transducer 80dB"      TopLayer CUI_CEP-1162        1299.210      1011.813      225      "Crystal Oscillator" 
+BAT2       "CR2032 Battery Holder"                       TopLayer BAT_CR2032_China    2870.079      649.606       270      =Description         
+U1         "UM66T - Fur Elise"                           TopLayer TO-92A_WIDE         3956.994      1383.715      60       =Description         
+SW1        "mini Switch 1 pole double throw right angle" TopLayer SK-12D07            3756.102      1079.460      65       ""                   
+BUZ1       "12x12x3mm Piezo Buzzer Transducer 81dB"      TopLayer CUI_CMT-1203-SMT    1299.213      1011.811      225      "Crystal Oscillator" 
+BAT1       "CR2032 SMD Battery Holder"                   TopLayer BAT_CR2032_KEY_1060 2866.142      791.339       5        =Description         
+D1         "5mm IR LED, 940nm, 100mA, 1.35V, 25Deg"      TopLayer LED_5MM_RD          637.795       937.008       315      =Description         
