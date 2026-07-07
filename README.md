@@ -1,6 +1,8 @@
 # REINDEER
 Christmas themed solder kit in the shape of Rudolph the Red-Nosed reindeer
 
+<iframe src="https://lectronz.com/products/reindeer-solder-kit/embed?layout=horizontal&color=ff4100" style="width:100%;max-width:480px;height:180px;border:0" loading="lazy" title="Reindeer Solder Kit on Lectronz"></iframe>
+
 ## Design
 Together with Fraincois Janssens we designed this Holiday themed solder kit. The electronics are basic, just a blinking red LED, a CR2032 battery and a small switch. Once we finally get a hold  of the UM66T-01L "Jingle Bells" tone generator, we can start offering the more advanced version of the kit which adds a buzzer and said tone generator.
 
